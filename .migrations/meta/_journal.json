@@ -8,6 +8,13 @@
       "when": 1725988359862,
       "tag": "0000_last_timeslip",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1725993048429,
+      "tag": "0001_faulty_kitty_pryde",
+      "breakpoints": true
     }
   ]
 }
